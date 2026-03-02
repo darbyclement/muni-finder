@@ -1,4 +1,4 @@
-# SF Muni Agent
+# SF Muni Agent [aka Darby learns how to code a basic agent] 
 
 Powered by Claude that gives you real-time SF Muni arrival predictions. Ask it about any stop and it'll tell you what's coming and when.
 
