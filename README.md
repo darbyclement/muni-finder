@@ -2,6 +2,8 @@
 
 Powered by Claude that gives you real-time SF Muni arrival predictions. Ask it about any stop and it'll tell you what's coming and when.
 
+Note: 511 has a very low rate limit of 60 req/hour. You will hit it if you spam the chat. Also, this agent is not very good at non-station locations and transfers. It's pretty basic. 
+
 ```
 $ go run .
 Chat with Claude (use 'ctrl-c' to quit)
