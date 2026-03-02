@@ -1,4 +1,4 @@
-# SF Muni Chatbot
+# SF Muni Agent
 
 A CLI chatbot powered by Claude that gives you real-time SF Muni arrival predictions. Ask it about any stop and it'll tell you what's coming and when.
 
